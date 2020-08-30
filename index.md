@@ -1,1 +1,1 @@
-[PDF](./)
+[PDF](./dotfiles.pdf)
